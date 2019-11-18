@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {},
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "[javascript]": {
+        "editor.fontLigatures": "'ss02', 'ss19'",
+    },
+    "editor.fontSize": 17
+}
